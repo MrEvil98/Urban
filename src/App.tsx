@@ -1,0 +1,20 @@
+@@ .. @@
+ import React from 'react';
+-import Header from './components/Header';
+-import Hero from './components/Hero';
+-import Features from './components/Features';
+-import Services from './components/Services';
+-import HowItWorks from './components/HowItWorks';
+-import Pricing from './components/Pricing';
+-import AppDownload from './components/AppDownload';
+-import Testimonials from './components/Testimonials';
+-import Footer from './components/Footer';
++import Header from './components/Header.tsx';
++import Hero from './components/Hero.tsx';
++import Features from './components/Features.tsx';
++import Services from './components/Services.tsx';
++import HowItWorks from './components/HowItWorks.tsx';
++import Pricing from './components/Pricing.tsx';
++import AppDownload from './components/AppDownload.tsx';
++import Testimonials from './components/Testimonials.tsx';
++import Footer from './components/Footer.tsx';
